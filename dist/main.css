@@ -1,0 +1,72 @@
+body {
+  border: 2px solid black;
+  width: 90%;
+  height: 500px;
+  margin: 0 auto; }
+
+header {
+  width: 100%;
+  height: 50px;
+  border-bottom: 2px solid black;
+  margin: 0;
+  text-align: center; }
+  header a {
+    padding: 20px;
+    padding-bottom: 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 25px; }
+
+.make-blog-page {
+  margin: 0 auto;
+  border: 2px solid black;
+  height: 200px;
+  text-align: center;
+  width: 300px; }
+
+.title, .body, .make-blog {
+  display: block;
+  margin: 0 auto; }
+
+.title {
+  font-size: 20px;
+  width: 150px;
+  height: 30px; }
+
+.body {
+  font-size: 14px;
+  width: 240px;
+  height: 100px; }
+
+.make-blog {
+  font-size: 20px;
+  width: 80px;
+  height: 30px; }
+
+.make-person-page {
+  text-align: center; }
+  .make-person-page input {
+    height: 30px;
+    font-size: 15px; }
+
+.read-blog-sidebar {
+  width: 200px;
+  height: 430px;
+  padding: 10px;
+  border-right: 2px solid black;
+  display: inline-block; }
+
+.blog-title {
+  margin-bottom: 20px;
+  font-size: 20px; }
+
+.read-blog-body {
+  height: 430px;
+  display: inline-block;
+  padding: 10px; }
+  .read-blog-body h1 {
+    font-size: 25px; }
+  .read-blog-body p {
+    font-size: 16px; }
+
+/*# sourceMappingURL=main.css.map */
